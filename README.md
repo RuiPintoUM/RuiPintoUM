@@ -1,8 +1,7 @@
 <h1 align="center">Hello!👋, I'm Rui</h1>
 <h3 align="center"> a Software Engineering student at the University of Minho. You can find my latest projects and contributions on this GitHub.</h3>
 
-<h3 align="left">Connect with me:</h3>
-
+# Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rui-pinto-34aa3126a) 
 
 # Languages and Tools:
